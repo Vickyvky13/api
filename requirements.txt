@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+motor              # async MongoDB driver
+python-telegram-bot>=20.0
+aiohttp

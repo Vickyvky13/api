@@ -1,7 +1,7 @@
 # config.py  ─  fill in your actual values before running
 
 # ── API Server ──────────────────────────────────────
-API_URL = "http://72.62.252.37:8000"       # URL where server.py runs
+API_URL = "http://72.62.252.37:8001"       # URL where server.py runs
 API_KEY = "SOLO"                        # Secret key (same in server + client)
 
 # ── Telegram ────────────────────────────────────────

@@ -12,3 +12,4 @@ TELEGRAM_CHANNEL = "@apisolotreee13"      # Channel username or numeric id (-100
 # ── MongoDB ─────────────────────────────────────────
 MONGO_URI     = "mongodb+srv://sengalpsycho1303:15406578@cluster0.janupoy.mongodb.net/?appName=Cluster0"   # or your Atlas URI
 MONGO_DB_NAME = "solo_music"
+DOWNLOAD_DIR = "downloads"
